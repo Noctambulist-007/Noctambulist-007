@@ -1,4 +1,4 @@
-![Grey and Black Professional LinkedIn Article Cover Image (4)](https://github.com/Noctambulist-007/Noctambulist-007/assets/137734510/adad8806-21f5-492a-b395-60f35d649481)
+a![Grey and Black Professional LinkedIn Article Cover Image (4)](https://github.com/Noctambulist-007/Noctambulist-007/assets/137734510/adad8806-21f5-492a-b395-60f35d649481)
 
 <h3 align="center">An enthusiastic Android Developer from Bangladesh.</h3>
 <img align="center" alt="Coding" width="100%" height="300" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif">
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 Check out my startup [heapiphy.com](heapiphy.com)
+- 👨‍💻 Check out my startup [Heapiphy](https://heapiphy.com/)
 
 - 💬 Ask me about **Android**
 
