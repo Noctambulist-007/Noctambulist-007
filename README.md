@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [heapiphy.com](heapiphy.com)
+- 👨‍💻 Check out my startup [heapiphy.com](heapiphy.com)
 
 - 💬 Ask me about **Android**
 
