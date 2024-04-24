@@ -1,8 +1,6 @@
 ![Grey and Black Professional LinkedIn Article Cover Image (4)](https://github.com/Noctambulist-007/Noctambulist-007/assets/137734510/adad8806-21f5-492a-b395-60f35d649481)
 
 <h3 align="center">An Enthusiastic Android Developer</h3>
-<img align="center" alt="Coding" width="100%" height="300" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif">
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctambulist-007" alt="noctambulist-007" /></a> </p>
 
