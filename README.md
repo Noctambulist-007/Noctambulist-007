@@ -37,7 +37,7 @@
 
  <br/>
  
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages | Tools | Frameworks ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,wordpress" /><br>
