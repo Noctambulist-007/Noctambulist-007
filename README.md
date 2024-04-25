@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Noctambulist-007.Noctambulist-007" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=03A688center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sajedul+Islam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=03A688&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sajedul+Islam!;" />
 </h1>
 
 <h3 align="center">An Enthusiastic Mobile App Developer</h3>
@@ -19,7 +19,7 @@
 
 💬 Ask me about **Android, Flutter, Wordpress... or anything [here](https://github.com/Noctambulist-007/Noctambulist-007/issues)**
 
-⚡ Fun fact **It's never too late. Just do it.**
+**It's never too late. Just do it.**
 
  </div>
  
@@ -37,7 +37,7 @@
 
  <br/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,wordpress" /><br>
@@ -45,14 +45,11 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <br/>
@@ -67,7 +64,7 @@
   <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Noctambulist-007&hide=HTML&langs_count=8&layout=compact&theme=vue&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <h2 align="center"> Thank You </h2>
